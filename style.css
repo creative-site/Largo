@@ -319,13 +319,14 @@ footer p {
 /* モバイル版
 -------------------------------*/
 
-@media (max-width: 600px) {    
+@media (max-width: 768px) {    
     .page-title {
         font-size: 2.5rem;
     }
     .page-header {
         flex-direction: column;
-        align-items: center;}
+        align-items: center;
+    }
 
     /* NEWS */
     .news-contents {
