@@ -92,7 +92,7 @@ img {
 }
 
 #home {
-    background-image: <img src="images/main-bg.png" alt="">;
+    background-image: url(../images/main-bg.png);
     min-height: 100vh;
 }
 
