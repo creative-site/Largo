@@ -103,7 +103,7 @@ img {
 /* NEWS
 ---------------------------------*/
 #news {
-    background-image: url(../images/news-bg.png);
+    background-image: <img src="https://github.com/creative-site/Largo/blob/main/main-bg.png?raw=true" alt="">;
     height: 270px;
     margin-bottom: 40px;
 }
